@@ -1,0 +1,10 @@
+h1 {
+    text-align: center;
+    color: green;
+}
+.tb1 {
+    border: solid darkblue 3px;
+    border-collapse: collapse;
+    background-color: lightgreen;
+    color: green;
+}

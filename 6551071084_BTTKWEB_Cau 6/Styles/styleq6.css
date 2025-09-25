@@ -1,0 +1,25 @@
+.td1{
+    background-color: red;
+    color: white;
+    text-align: right;
+    width: 90%;
+}
+.td2 {
+    background-color: pink;
+    color: red;
+    text-align: center;
+}
+.tdm {
+    color: red;
+    font-weight: bold;
+}
+.lim {
+    color: black;
+    font-weight: normal;
+}
+.tb1 {
+    border-color: red;
+}
+table {
+    border-collapse: collapse;
+}

@@ -1,0 +1,12 @@
+ h1{
+   color: red; text-align: center;
+ }
+ ol{
+     color: red;
+ }
+ ol ol{
+    color: blue;
+ }
+ p {
+     color: blue;
+ }
